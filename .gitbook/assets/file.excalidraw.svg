@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 438.69976806640625 110.6640625" width="877.3995361328125" height="221.328125">
+  <!-- svg-source:excalidraw -->
+  <!-- payload-type:application/vnd.excalidraw+json --><!-- payload-version:2 --><!-- payload-start -->eyJ2ZXJzaW9uIjoiMSIsImVuY29kaW5nIjoiYnN0cmluZyIsImNvbXByZXNzZWQiOnRydWUsImVuY29kZWQiOiJ4nM2WXU/bMFx1MDAxNIbv+Vx1MDAxNVW4ZcF2XHUwMDEyx0baJKAwqmlcdTAwMTNcdTAwMWJsXGZNXHUwMDEzMombeEntKHFKXHUwMDBi4r/PTrsk7UCDaTB6XHUwMDExNecj5/U550l7szFcdTAwMTg4el5wZ2fg8FnEclx1MDAxMZfsytmy9ikvK6GkcaHmvlJ1XHUwMDE5NZGp1kW1s73NisJNhL5UKnMjNVmk8ZxPuNSVXHT8Zu5cdTAwMDeDm+baK6T5TDexjbUrXHUwMDAzfbJu/aBkU9IjXHUwMDAxJr7fukU1NHU0j41vzPKKd1x1MDAxZWtyjuC77PjL8Hz/OntbXHUwMDFmv7qo0kk17mqORZ6f6Hm+OFxyi9K65J230qXK+JmIdWpVrdnbvEqZbnVZpaqTVPKqWslRXHUwMDA1i4SeW1x1MDAxYlx1MDAwMK2VyaR5RmeZ2UOG0FxyPd9cdTAwMGKD1mxcdTAwMTNcdTAwMTFBLiVcdTAwMDRcdTAwMTGIgjUt+ypXpdWyXHSaT6fmkkVZYiTJuI3RJZNVwUoznC7uanlKXHUwMDFmXHUwMDEyXHUwMDE3U1x1MDAxYWJcdTAwMDIw9lx1MDAwMe6VSrlIUm2F9MrzpvUmmlx1MDAxMGzEtVx1MDAwZVuzXHUwMDE4xc30v/d7I+Nlb2Sd551M6zjobUyXU1x1MDAxNzFbXGZcdTAwMThi6mPq4Vx1MDAxMIW0q5RcdTAwMGKZrT8uV1F2x06MldQn4tp2XHUwMDFjgVx1MDAxNeshm4h8vjKxZjtNu1x1MDAwZWZRaubEXHUwMDA3r99cZtrvuzErNC+RNVx1MDAwZVx1MDAwZr5cImclbTdcdTAwMTeJXWQn5+PVXHLXwrDVurUqOm9kZDAheTmK14+jSpFcYsny07+TZDrEj35cclx1MDAwZrq98V2yiluvtZPGeLv1OFZDelx1MDAxZqrQXHUwMDAzkFx1MDAwMlx1MDAxZqNuVH+ilYTl3uxQVmfDi3M03X+ffYL1j5dOq4+Ja45J1mlccoDr+1x1MDAxNMG+41/T6lx1MDAwMeSGXHUwMDA2XHUwMDA2XHUwMDFmQ1xuXHUwMDFmTCvyXHUwMDAwoFx1MDAxOKJngVx1MDAxNYfUXHUwMDBm+qv4pLDeXHUwMDAxXHUwMDA0XFxcdTAwMDJcdTAwMDGfl9GHKXlKNGFcdTAwMTDeyyaGIFxmQrOeXHUwMDBmZrM8TepcdTAwMTFcdTAwMWOOPoPpeIakZFx1MDAxZk+PJi+fzdD1XHUwMDAzjyBs3kSI4u5lZfM9iF1cYr2n/UH1IHWhQVx1MDAxNNAgXHUwMDA0XHUwMDFlfImEQlx1MDAxYfj9jXxuQr0lXHUwMDE33n8n9Fx1MDAwZSWPXCLUXFybTjvmXHUwMDFm8Yk2fTa+XHUwMDA1r2aCXCJeNqtT5UxcdTAwMDW/2vt9ozbHzcfZWFJv8eJ2kDe3XHUwMDFitz9cdTAwMDFdqVx1MDAwMDgifQ==<!-- payload-end -->
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@0.15.3/dist/excalidraw-assets/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@0.15.3/dist/excalidraw-assets/Cascadia.woff2");
+      }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="438.69976806640625" height="110.6640625" fill="#ffffff"/><g transform="translate(10 42.5390625) rotate(0 209.34988403320312 12.5)"><text x="0" y="0" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">Exchange =&gt; Exchange Adapter2 =&gt; DEX2</text></g><g transform="translate(106.3125 10) rotate(0 151.38992309570312 12.5)"><text x="0" y="0" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">=&gt; Exchange Adapter1 =&gt; DEX1</text></g><g transform="translate(105.71945190429688 75.6640625) rotate(0 159.58990478515625 12.5)"><text x="0" y="0" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">=&gt; Exchange Adapter3 =&gt; DEX3</text></g></svg>
