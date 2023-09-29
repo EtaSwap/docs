@@ -53,3 +53,7 @@ You have some amount of HBAR and you want to buy exacty 200 tokenC. For example 
 4. You receive change (unused HBAR tokens), calculated by: 41.12 HBAR (sent to smart-contract) - 39-41 HBAR (amount spent by exchange to get 200 tokenC) - 0.12 HBAR (EtaSwap fee) = 0 - 2 HBAR.
 
 In total your spendings: 39.12 - 41.12 HBAR, your income 200 tokenC.
+
+{% hint style="info" %}
+Note: examples on top calculated with given 0% price impact.
+{% endhint %}
