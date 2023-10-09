@@ -2,6 +2,15 @@
 
 
 
+* v 0.2.0 (09.10.2023)\
+  Added:\
+  &#x20; \- Blade wallet\
+  Updated:\
+  &#x20; \- Slightly reduced gas amount for HeliSwap (cheaper WHBAR burning)\
+  &#x20; \- Code refactoring\
+  Fixed:\
+  &#x20; \- Bug on switching network to testnet\
+
 * v 0.1.2 (29.09.2023)\
   Added:\
   &#x20; \- Price impact calculation\
