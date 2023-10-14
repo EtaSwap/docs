@@ -2,6 +2,14 @@
 
 
 
+* v 0.2.1 (14.10.2023)\
+  Added:\
+  &#x20; \- Version of application in right bottom corner\
+  Fixed:\
+  &#x20; \- Overlapping social icons\
+  &#x20; \- Styles on mobile page\
+  &#x20; \- Website updates\
+
 * v 0.2.0 (09.10.2023)\
   Added:\
   &#x20; \- Blade wallet\
