@@ -8,7 +8,8 @@
   Fixed:\
   &#x20; \- Overlapping social icons\
   &#x20; \- Styles on mobile page\
-  &#x20; \- Website updates\
+  &#x20; \- Website (main page) updates\
+  &#x20; \- SPA routing (opening /tokens page)\
 
 * v 0.2.0 (09.10.2023)\
   Added:\
