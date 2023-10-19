@@ -2,6 +2,15 @@
 
 
 
+* v 0.2.2 (22.10.2023)\
+  Added:\
+  &#x20; \- Search in tokens modal (by name, symbol and address)\
+  Fixed:\
+  &#x20; \- Precision of rate (consider 0.3% of each DEX fee)\
+  &#x20; \- Leading zero in fields\
+  &#x20; \- Testnet factory address\
+  &#x20; \- Field values after exchange\
+
 * v 0.2.1 (14.10.2023)\
   Added:\
   &#x20; \- Version of application in right bottom corner\
