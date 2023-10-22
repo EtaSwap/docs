@@ -3,6 +3,7 @@
 * [Overview](README.md)
 * [How to swap tokens](how-to-swap-tokens.md)
 * [Fees explanation](fees-explanation.md)
+* [Token lists](token-lists.md)
 
 ## Smart contracts
 
