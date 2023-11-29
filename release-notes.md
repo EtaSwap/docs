@@ -2,6 +2,15 @@
 
 
 
+* v 0.3.0 (30.11.2023)\
+  Added:\
+  &#x20; \- HSuite\
+  &#x20; \- Approx. network fee\
+  &#x20; \- Notifications (success/error transactions)\
+  &#x20; \- Loader (spinner)\
+  Updated:\
+  &#x20; \- Code refactoring\
+
 * v 0.2.2 (22.10.2023)\
   Added:\
   &#x20; \- Search in tokens modal (by name, symbol and address)\

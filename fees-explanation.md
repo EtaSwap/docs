@@ -4,14 +4,16 @@ Network gas for different kind of swaps (for current Uniswap-like DEX-es) takes 
 
 
 
-| Token pair          | Gas approx.           | Gas approx. in USD |
-| ------------------- | --------------------- | ------------------ |
-| ERC20 -> ERC20 swap | 900000 - 920000 Gas   | \~0.07 USD         |
-| HBAR -> ERC20 swap  | 235000 - 245000 Gas   | \~0.02 USD         |
-| ERC20 -> HBAR swap  | 1670000 - 1690000 Gas | \~0.12 USD         |
+<table><thead><tr><th width="178">Token pair</th><th width="152.33333333333331">Gas for SaucerSwap V1</th><th>Gas for Pangolin</th><th>Gas for HeliSwap</th><th>Gas for HSuite</th></tr></thead><tbody><tr><td>ERC20 -> ERC20 swap</td><td>910000 Gas</td><td>910000 Gas</td><td>910000 Gas</td><td>N/A</td></tr><tr><td>HBAR -> ERC20 swap</td><td>260000 Gas</td><td>260000 Gas</td><td>255000 Gas</td><td>N/A</td></tr><tr><td>ERC20 -> HBAR swap</td><td>16800000 Gas</td><td>1680000 Gas</td><td>1300000 Gas</td><td>N/A</td></tr></tbody></table>
 
-The third option (ERC20 -> HBAR) costs more gas than other, because of high cost of burning WHBAR operation (inside exchange). \
+The third option (ERC20 -> HBAR) consumes more gas than others, because of high cost of burning WHBAR operation (inside exchange). However HeliSwap has different implementation of WHBAR then others, which leads to lower fee on WHBAR burning, so it consumes less amount of gas on ERC20 -> HBAR swaps.\
 Additionally 1 and 3 operations require Approval transaction, which costs \~0.05 USD.
+
+HSuite isn't working on smart-contract level, it utilizes Hedera Token Service (HTS) and doesn't need approval transaction as well.
+
+Approx USD cost of swaps on the table below:
+
+<table><thead><tr><th width="178">Token pair</th><th width="152.33333333333331">Fee for SaucerSwap V1</th><th>Fee for Pangolin</th><th>Fee for HeliSwap</th><th>Fee for HSuite</th></tr></thead><tbody><tr><td>ERC20 -> ERC20 swap</td><td>~0.0746 USD</td><td>~0.0746 USD</td><td>~0.0746 USD</td><td>~0.0016 USD</td></tr><tr><td>HBAR -> ERC20 swap</td><td>~0.0213 USD</td><td>~0.0213 USD</td><td>~0.0213 USD</td><td>~0.0016 USD</td></tr><tr><td>ERC20 -> HBAR swap</td><td>~0.1378 USD</td><td>~0.1378 USD</td><td>~0.1066 USD</td><td>~0.0016 USD</td></tr></tbody></table>
 
 Amount of fee charged by EtaSwap can be different for each adapter, it’s possible to change/adjust the fee for a particular adapter. Current fees:
 
@@ -20,10 +22,11 @@ Amount of fee charged by EtaSwap can be different for each adapter, it’s possi
 | SaucerSwap | 0.3%           |
 | Pangolin   | 0.3%           |
 | HeliSwap   | 0.5%           |
+| HSuite     | 0.3%           |
 
 Network fee always charged in HBAR, so make sure you have enough HBAR coins to pay network fee before swap operation.
 
-EtaSwap fee charged in source tokens.
+EtaSwap fee charged in source tokens (note: for HSuite, EtaSwap fee charged in HBAR).
 
 Unused slippage always returns to user.
 
