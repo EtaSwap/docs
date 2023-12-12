@@ -2,6 +2,10 @@
 
 
 
+* v 0.3.1 (12.12.2023)\
+  Updated:\
+  &#x20; \- HSuite rate source (API instead of tokenPair)\
+
 * v 0.3.0 (30.11.2023)\
   Added:\
   &#x20; \- HSuite\
@@ -9,7 +13,7 @@
   &#x20; \- Notifications (success/error transactions)\
   &#x20; \- Loader (spinner)\
   Updated:\
-  &#x20; \- Code refactoring\
+  &#x20; \- Code refactoring (introduce Typescript)\
 
 * v 0.2.2 (22.10.2023)\
   Added:\
