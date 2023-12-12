@@ -3,6 +3,8 @@
 
 
 * v 0.3.1 (12.12.2023)\
+  Added:\
+  &#x20; \- HSuite indirect swaps ("Smart routing")\
   Updated:\
   &#x20; \- HSuite rate source (API instead of tokenPair)\
 
