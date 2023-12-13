@@ -2,6 +2,10 @@
 
 
 
+* v 0.3.2 (13.12.2023)\
+  Fixed:\
+  &#x20; \- Nullify field values on switching tokens\
+
 * v 0.3.1 (12.12.2023)\
   Added:\
   &#x20; \- HSuite indirect swaps ("Smart routing")\
