@@ -2,6 +2,11 @@
 
 
 
+* v 0.3.3 (15.01.2023)\
+  Added:\
+  &#x20; \- 92 new tokens for SaucerSwap\
+  &#x20; \- Supported token lists for mainnet and testnet ([https://app.etaswap.com/tokenListMainnet.json](https://app.etaswap.com/tokenListMainnet.json), [https://app.etaswap.com/tokenListTestnet.json](https://app.etaswap.com/tokenListTestnet.json))\
+
 * v 0.3.2 (13.12.2023)\
   Fixed:\
   &#x20; \- Nullify field values on switching tokens\
