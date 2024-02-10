@@ -2,7 +2,14 @@
 
 
 
-* v 0.3.3 (15.01.2023)\
+* v 0.3.4 (10.02.2024)\
+  Added:\
+  &#x20; \- Token association buttons\
+  &#x20; \- HSuite fee display\
+  Fixed: \
+  &#x20; \- Skip provider if failed to download it token list\
+
+* v 0.3.3 (15.01.2024)\
   Added:\
   &#x20; \- 92 new tokens for SaucerSwap\
   &#x20; \- Supported token lists for mainnet and testnet ([https://app.etaswap.com/tokenListMainnet.json](https://app.etaswap.com/tokenListMainnet.json), [https://app.etaswap.com/tokenListTestnet.json](https://app.etaswap.com/tokenListTestnet.json))\
