@@ -2,6 +2,13 @@
 
 
 
+* v 1.0.0 (07.03.2024)\
+  Added:\
+  &#x20; \- SaucerSwapV2 integration\
+  &#x20; \- Introduce of API\
+  Updated:\
+  &#x20; \- Set HeliSwap fee as 0.3%. Now all providers has 0.3% fee on our side\
+
 * v 0.3.4 (10.02.2024)\
   Added:\
   &#x20; \- Token association buttons\
