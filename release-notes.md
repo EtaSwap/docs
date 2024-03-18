@@ -2,6 +2,10 @@
 
 
 
+* v 1.0.1 (18.03.2024)\
+  Added:\
+  &#x20; \- Smart routing (indirect swaps)\
+
 * v 1.0.0 (07.03.2024)\
   Added:\
   &#x20; \- SaucerSwapV2 integration\
