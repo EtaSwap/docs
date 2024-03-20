@@ -14,3 +14,8 @@
 ***
 
 * [Release notes](release-notes.md)
+
+## API documentation
+
+* [Rate provider](api-documentation/rate-provider.md)
+* [Settings](api-documentation/settings.md)
