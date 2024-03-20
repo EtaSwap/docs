@@ -11,11 +11,11 @@
 * [ABI and interaction](smart-contracts/abi-and-interaction/README.md)
   * [Exchange](smart-contracts/abi-and-interaction/exchange.md)
 
-***
-
-* [Release notes](release-notes.md)
-
 ## API documentation
 
 * [Rate provider](api-documentation/rate-provider.md)
 * [Settings](api-documentation/settings.md)
+
+***
+
+* [Release notes](release-notes.md)
