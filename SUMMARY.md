@@ -4,6 +4,7 @@
 * [How to swap tokens](how-to-swap-tokens.md)
 * [Fees explanation](fees-explanation.md)
 * [Token lists](token-lists.md)
+* [Release notes](release-notes.md)
 
 ## Smart contracts
 
@@ -15,7 +16,3 @@
 
 * [Rate provider](api-documentation/rate-provider.md)
 * [Settings](api-documentation/settings.md)
-
-***
-
-* [Release notes](release-notes.md)
