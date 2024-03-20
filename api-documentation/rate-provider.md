@@ -59,8 +59,8 @@ Response example:
 
 * `transactionType` - indicator of type of the transaction. Options: "SWAP" or "INDIRECT\_SWAP". In future list of options will expand as we implement new algorithms.
 * `aggregatorId` - identifier of liquility provider
-* `amountFrom` - amount of `tokenFrom` to send
-* `amountTo` - amount of `tokenTo` to receive
+* `amountFrom` - amount of `tokenFrom` to send in minimum token units
+* `amountTo` - amount of `tokenTo` to receive in minimum token units
 * `gasEstimate` - amount of gas, that should be attached to[ ](../smart-contracts/smart-contract-addresses.md)[Exchange](../smart-contracts/smart-contract-addresses.md) contract call. Not provided for smart-contract-less exchanges (such as HSuite)
 * `path` - internal parameter that should be send to[ ](../smart-contracts/smart-contract-addresses.md)[Exchange](../smart-contracts/smart-contract-addresses.md) contract call to process exchange
 * `route` - exchange route (list of array of token addresses in EVM format)
