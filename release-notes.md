@@ -2,6 +2,11 @@
 
 
 
+* v 1.0.2 (23.03.2024)\
+  Fixed:\
+  &#x20; \- SaucerSwapV2 execution error when smart-route using pools with different fees\
+  &#x20; \- WHBAR address in route output param replaced by AddressZero\
+
 * v 1.0.1 (18.03.2024)\
   Added:\
   &#x20; \- Smart routing (indirect swaps)\
