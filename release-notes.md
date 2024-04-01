@@ -2,6 +2,14 @@
 
 
 
+* v 1.0.3 (02.04.2024)\
+  Added:\
+  &#x20; \- 186 new tokens (711 in total)\
+  &#x20; \- Warning on exchange tokens with custom fees (like BSL)\
+  &#x20; \- Advanced smart-routing algorithm (output amount should become even better)\
+  Fixed:\
+  &#x20; \- Spinner on fetching rate\
+
 * v 1.0.2 (23.03.2024)\
   Fixed:\
   &#x20; \- SaucerSwapV2 execution error when smart-route using pools with different fees\
