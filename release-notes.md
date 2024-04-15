@@ -2,6 +2,17 @@
 
 
 
+* v 1.0.4 (15.04.2024)\
+  Added:\
+  &#x20; \- Token balance displaying in corner of input field\
+  &#x20; \- Token balances displaying in tokens selection modal \
+  Fixed:\
+  &#x20; \- Preserve token amount in input field on switching token\
+  &#x20; \- Preserve token amount in input field after associating token\
+  &#x20; \- Preserve token amount in input field after executing swap\
+  &#x20; \- Interval with requesting new rate now works more precise, also fixed double-requesting same rate\
+  &#x20; \-  Add 5% to slippage options (to be able to process tokens with high custom fees)\
+
 * v 1.0.3 (02.04.2024)\
   Added:\
   &#x20; \- 186 new tokens (711 in total)\
