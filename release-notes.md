@@ -2,6 +2,10 @@
 
 
 
+* v 1.0.5 (25.04.2024)\
+  Fixed:\
+  &#x20; \- Disable input fields when loader is active (switching output amount)\
+
 * v 1.0.4 (15.04.2024)\
   Added:\
   &#x20; \- Token balance displaying in corner of input field\
