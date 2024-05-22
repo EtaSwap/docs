@@ -2,6 +2,9 @@
 
 
 
+* v 1.1.0 (22.05.2024)\
+  Redesign\
+
 * v 1.0.5 (25.04.2024)\
   Fixed:\
   &#x20; \- Disable input fields when loader is active (switching output amount)\
