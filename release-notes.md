@@ -2,6 +2,12 @@
 
 
 
+* v 1.2.0 (03.06.2024)\
+  Added:\
+  &#x20; \- Split-swaps\
+  Fixed:\
+  &#x20; \- Backend response time optimize (2-3 times faster now)\
+
 * v 1.1.0 (22.05.2024)\
   Redesign\
 
