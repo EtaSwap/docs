@@ -2,6 +2,10 @@
 
 
 
+* v 1.3.0 (1.06.2024)\
+  Added:\
+  &#x20; \- WalletConnect support\
+
 * v 1.2.0 (03.06.2024)\
   Added:\
   &#x20; \- Split-swaps\
