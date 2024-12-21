@@ -2,7 +2,15 @@
 
 
 
-* v 1.3.0 (1.06.2024)\
+* v 1.4.0 (01.07.2024)\
+  Added:\
+  &#x20; \- Advanced statistics (total volume, volume by DEX, volume by source, volume by wallet, swaps by wallet)\
+  &#x20; \- 50 new tokens\
+  Fixed:\
+  &#x20; \- Appearing spinner on Tokens page\
+  &#x20; \- Slightly increased debounce for fetching rates (from 500ms to 650ms)\
+
+* v 1.3.0 (01.06.2024)\
   Added:\
   &#x20; \- WalletConnect support\
 
