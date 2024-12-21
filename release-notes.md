@@ -2,6 +2,21 @@
 
 
 
+* v 1.4.2 (21.12.2024)\
+  Added:\
+  &#x20; \- tokenFrom and tokenTo setup as query parameters\
+  Fixed:\
+  &#x20; \- New tokens will appear instantly on EtaSwap after appearing on any DEX\
+  &#x20; \- Not asking to associate tokens for users which have configured unlimited associations\
+  &#x20; \- Black screen on decimals overflow\
+  &#x20; \- Clipboard access request on copying transaction ID\
+
+* v 1.4.1 (04.12.2024)\
+  Added:\
+  &#x20; \- Selectable routes\
+  Improved:\
+  &#x20; \- Initial token list loading time\
+
 * v 1.4.0 (01.07.2024)\
   Added:\
   &#x20; \- Advanced statistics (total volume, volume by DEX, volume by source, volume by wallet, swaps by wallet)\
