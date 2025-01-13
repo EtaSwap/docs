@@ -2,6 +2,19 @@
 
 
 
+* v 1.4.4 (13.01.2025)\
+  Fixed:\
+  &#x20; \- Delays in connecting wallet and showing tokens balances\
+  Improved:\
+  &#x20; \- Set WalletConnect as connection method for HashPack (removed hashconnect)\
+
+* v 1.4.3 (26.12.2024)\
+  Fixed:\
+  &#x20; \- Issue with fetching tokens from HeliSwap (was blocked by some firewalls)\
+  &#x20; \- "UniswapV2: K" transaction error.\
+  Improved:\
+  &#x20; \- Enabled gzip on server (amount of data, transmitted during initial loading reduced from 7.1MB to 2.0MB)\
+
 * v 1.4.2 (21.12.2024)\
   Added:\
   &#x20; \- tokenFrom and tokenTo setup as query parameters\
