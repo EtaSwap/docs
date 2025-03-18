@@ -1,11 +1,9 @@
 # Smart-contract addresses
 
-#### Mainnet
+#### DEX aggregator
 
-<table><thead><tr><th width="173">Contract</th><th width="468">Address</th><th width="157">Verified on HashScan</th></tr></thead><tbody><tr><td>Exchange</td><td><a href="https://hashscan.io/mainnet/contract/0.0.4817907">0x00000000000000000000000000000000004983f3</a></td><td>✅</td></tr><tr><td>SaucerSwapV2 Adapter</td><td><a href="https://hashscan.io/mainnet/contract/0.0.4817910">0x00000000000000000000000000000000004983f6</a></td><td>✅</td></tr><tr><td> SaucerSwapV1 Adapter</td><td><a href="https://hashscan.io/mainnet/contract/0.0.4817915">0x00000000000000000000000000000000004983fb</a></td><td>✅</td></tr><tr><td>Pangolin Adapter</td><td><a href="https://hashscan.io/mainnet/contract/0.0.4817922">0x0000000000000000000000000000000000498402</a></td><td>✅</td></tr><tr><td>HeliSwap Adapter</td><td><a href="https://hashscan.io/mainnet/contract/0.0.4817928">0x0000000000000000000000000000000000498408</a></td><td>✅</td></tr></tbody></table>
+<table><thead><tr><th width="173">Contract</th><th width="468">Address</th><th width="157">Source code verifications</th></tr></thead><tbody><tr><td>Exchange</td><td><a href="https://hashscan.io/mainnet/contract/0.0.4817907">0x00000000000000000000000000000000004983f3</a></td><td>✅ - HashScan</td></tr><tr><td>SaucerSwapV2 Adapter</td><td><a href="https://hashscan.io/mainnet/contract/0.0.4817910">0x00000000000000000000000000000000004983f6</a></td><td>✅ - HashScan</td></tr><tr><td> SaucerSwapV1 Adapter</td><td><a href="https://hashscan.io/mainnet/contract/0.0.4817915">0x00000000000000000000000000000000004983fb</a></td><td>✅ - HashScan</td></tr><tr><td>Pangolin Adapter</td><td><a href="https://hashscan.io/mainnet/contract/0.0.4817922">0x0000000000000000000000000000000000498402</a></td><td>✅ - HashScan</td></tr><tr><td>HeliSwap Adapter</td><td><a href="https://hashscan.io/mainnet/contract/0.0.4817928">0x0000000000000000000000000000000000498408</a></td><td>✅ - HashScan</td></tr></tbody></table>
 
+Bridge
 
-
-{% hint style="info" %}
-We stopped support of testnet contracts because of small demand and high maintainance effort. If you need to deploy contracts to testnet - can reach us via social networks.
-{% endhint %}
+<table><thead><tr><th width="173">Contract</th><th width="468">Address</th><th width="157">Source code verifications</th></tr></thead><tbody><tr><td>Avalanche adapter</td><td><a href="https://snowtrace.io/address/0xd4530d4d3ed611a3b050CA94Fd304DAaf758db9E">0xd4530d4d3ed611a3b050CA94Fd304DAaf758db9E</a></td><td>✅ - Snowtrace<br>✅ - Subnets<br>✅ - RouteScan<br>✅ - OKLink</td></tr><tr><td>Base adapter</td><td><a href="https://basescan.org/address/0xd4530d4d3ed611a3b050ca94fd304daaf758db9e">0xd4530d4d3ed611a3b050ca94fd304daaf758db9e</a></td><td>✅ - BaseScan<br>✅ - BlockScout<br>✅ - RouteScan<br>✅ - OKLink</td></tr><tr><td> Hedera adapter</td><td><a href="https://hashscan.io/mainnet/contract/0.0.8325816">0xE865B7a08f03B0ACe1004f4F9F16d7b251b1CD12</a></td><td>✅ - HashScan</td></tr></tbody></table>

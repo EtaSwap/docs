@@ -1,10 +1,17 @@
 # Table of contents
 
+## DEX Aggregator
+
 * [Overview](README.md)
-* [How to swap tokens](how-to-swap-tokens.md)
-* [Fees explanation](fees-explanation.md)
-* [Token lists](token-lists.md)
-* [Release notes](release-notes.md)
+* [How to swap tokens](dex-aggregator/how-to-swap-tokens.md)
+* [Fees explanation](dex-aggregator/fees-explanation.md)
+* [Release notes](dex-aggregator/release-notes.md)
+
+## Bridge
+
+* [Overview](bridge/overview.md)
+* [Tokens/chains](bridge/tokens-chains.md)
+* [Fees](bridge/fees.md)
 
 ## Smart contracts
 
