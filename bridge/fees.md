@@ -1,6 +1,6 @@
 # Fees
 
-EtaBridge fee is **0.3%**, which is taken in source coin. Which means when user is sending 100 USDC from chain A to chain B - he receives 99.7 USDC on chain B.
+EtaBridge fee is **0.3%**, which is taken in source coin. Which means when user is sending 100 USDC from chain A to chain B - he will receive 99.7 USDC on chain B.
 
 Network fees are including:
 
